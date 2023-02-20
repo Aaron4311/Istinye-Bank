@@ -1,5 +1,5 @@
 import time #Time module to print date and time
-kullanıcılar = {"ahmed":[1234,100],"zeynep":[4321,500],"alberto":[4422,900]} #Usernames, passwords and balances
+kullanıcılar = {"ahmed":[1234,100],"zeynep":[4321,500],"alberto":[4422,900]} #Usernames, passwords and balance
 
 işlem = {"ahmed":{"Withdrawals":[],"Deposits":[],"Transfers":[]},"zeynep":{"Withdrawals":[],"Deposits":[],"Transfers":[]},"alberto":{"Withdrawals":[],"Deposits":[],"Transfers":[]}}#Transaction log
 
